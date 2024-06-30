@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520832173799",
+    "project_id": "aplikasiwisata-34728",
+    "storage_bucket": "aplikasiwisata-34728.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520832173799:android:758645feedf3d5e65b8442",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_wisata_c"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGbLta219r2CdokM07L1DVpIYTazk6hj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
