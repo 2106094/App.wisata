@@ -1,6 +1,6 @@
-# aplikasi_wisata_c
+# aplikasi_wisata.App
 
-A new Flutter project.
+aplikasi ini hampir mirip dengan aplikasi WhatsApp dan instagram yang di satukan agar pengalaman dalam bermedia sosial lebih interactive.
 
 ## Getting Started
 
